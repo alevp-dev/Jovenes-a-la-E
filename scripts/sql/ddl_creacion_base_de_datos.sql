@@ -56,10 +56,3 @@ CREATE TABLE participacion (
   FOREIGN KEY (convocatoria_id) REFERENCES convocatoria(convocatoria_id) ON DELETE CASCADE,
   FOREIGN KEY (programa_id) REFERENCES programa(programa_id) ON DELETE CASCADE
 );
-
-DROP DATABASE jovenes_a_la_e;
-SELECT COUNT(*) AS total_registros_estudiantes FROM estudiante;
-SELECT COUNT(*) AS total_registros_instituciones FROM inst_edu_superior;
-SELECT COUNT(*) AS total_registros_programas FROM programa;
-SELECT COUNT(*) AS total_registros_convocatorias FROM convocatoria;
-SELECT COUNT(*) AS total_registros_localidades FROM localidad;
