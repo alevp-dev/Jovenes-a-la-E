@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 - Scripts de creación y poblamiento de la base de datos
 - Inserción de datos desde Excel con Python
 - Análisis de calidad de los datos
-- Visualización sugerida (Power BI o Tableau)
+- Visualización Power BI
 
 ---
 
@@ -56,7 +56,7 @@ Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 be
 
 ## Instrucciones de uso
 
-1. Ejecutar el script de creación (`creacion_bd.sql`)
+1. Ejecutar el script de creación (`ddl_crear_base_de_datos.ipynb`)
 2. Limpiar y cargar el archivo Excel (`je_conteo_20241231.xlsx`)
 3. Ejecutar el script Python o notebook para poblar la base
 4. Realizar análisis o visualizaciones según necesidad
