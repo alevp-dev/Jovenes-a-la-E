@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 
 ---
 
-## 📘 Contenido
+## Contenido
 
 - Modelo entidad-relación (ER) y modelo relacional
 - Scripts de creación y poblamiento de la base de datos
@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 
 ---
 
-## 🧱 Estructura de la base de datos
+## Estructura de la base de datos
 
 ### Tablas principales:
 - **localidad**: almacena las localidades de residencia
@@ -26,7 +26,7 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Python 3.9+
 - MySQL Server
@@ -36,15 +36,15 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 
 ---
 
-## 🐍 Scripts disponibles
+## Scripts disponibles
 
-- `creacion_bd.sql`: crea la estructura de la base de datos
-- `poblar_bd.py` o `.ipynb`: inserta los datos desde Excel
-- `consultas.sql`: incluye consultas útiles para el análisis
+- `ddl_crear_base_de_datos`: crea la estructura de la base de datos
+- `dml_insertar_datos.ipynb`: inserta los datos desde Excel
+- `dml_consultar_datos`: incluye consultas útiles para el análisis
 
 ---
 
-## 📝 Datos
+## Datos
 
 Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 beneficiarios potenciales, incluyendo:
 - Edad, género, grupo étnico
@@ -54,7 +54,7 @@ Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 be
 
 ---
 
-## 🚀 Instrucciones de uso
+## Instrucciones de uso
 
 1. Ejecutar el script de creación (`creacion_bd.sql`)
 2. Limpiar y cargar el archivo Excel (`je_conteo_20241231.xlsx`)
