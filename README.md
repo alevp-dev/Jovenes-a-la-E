@@ -38,9 +38,9 @@ Este proyecto tiene como objetivo diseñar y poblar una base de datos que permit
 
 ## Scripts disponibles
 
-- `ddl_crear_base_de_datos`: crea la estructura de la base de datos
+- `ddl_crear_base_de_datos.ipynb`: crea la estructura de la base de datos
 - `dml_insertar_datos.ipynb`: inserta los datos desde Excel
-- `dml_consultar_datos`: incluye consultas útiles para el análisis
+- `dml_consultar_datos.ipynb`: incluye consultas útiles para el análisis
 
 ---
 
