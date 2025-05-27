@@ -65,6 +65,6 @@ Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 be
 
 ## 👩‍💻 Autoría
 
-Proyecto académico con enfoque en base de datos, participación social e inclusión digital con perspectiva de género.
+Proyecto académico con enfoque en base de datos, participación social e inclusión con perspectiva de género.
 
 ---
