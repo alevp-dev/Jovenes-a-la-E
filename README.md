@@ -1,6 +1,6 @@
 # Proyecto Jóvenes a la E - Gestión de Participación con Enfoque de Género
 
-Este proyecto tiene como objetivo diseñar y poblar una base de datos que permita gestionar la información de los beneficiarios del programa **"Jóvenes a la E"**, con enfoque de género, desde una perspectiva territorial y académica.
+Este proyecto tiene como objetivo diseñar y poblar una base de datos que permita gestionar la información de los beneficiarios del programa **"Jóvenes a la E"**, desde una perspectiva territorial, social y académica.
 
 ---
 
@@ -65,7 +65,7 @@ Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 be
 
 ## Autoría
 
-Proyecto académico con enfoque en base de datos, participación social e inclusión con perspectiva de género.
+Proyecto académico con enfoque en base de datos, participación social e inclusión.
 
 Alejandra Villa
 https://www.linkedin.com/in/alejandra-villa-posada-b4b698244/
