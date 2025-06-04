@@ -66,5 +66,15 @@ Fuente: Archivo `je_conteo_20241231.xlsx`, con información de más de 36.000 be
 ## Autoría
 
 Proyecto académico con enfoque en base de datos, participación social e inclusión con perspectiva de género.
+Alejandra Villa
+https://www.linkedin.com/in/alejandra-villa-posada-b4b698244/
 
+Vanesa Paternina
+https://www.linkedin.com/in/vanesa-paternina-zabala
+
+Yuliana Gomez
+https://www.linkedin.com/in/yulianagomez18
+
+Valentina Suárez 
+https://www.linkedin.com/in/valentina-suarez-bejarano-a2609b1a2/
 ---
